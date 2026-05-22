@@ -1,0 +1,6 @@
+{
+  "name": "Mundial 2026",
+  "description": "Sigue los resultados del Mundial FIFA 2026 en tiempo real con estadísticas, posiciones, calendario interactivo y notificaciones en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
